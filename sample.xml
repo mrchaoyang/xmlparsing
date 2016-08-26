@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemlist>
+<items>
+<item>
+<id>item1</id>
+</item>
+<item>
+<id>item2</id>
+<label>Item 2</label>
+</item>
+<item>
+<id>item3</id>
+</item>
+<item>
+<id>item4</id>
+</item>
+<item>
+<id>item5</id>
+</item>
+<item>
+<id>subItem1</id>
+<subitems>
+<subitem>
+<id>subItem1Item1</id>
+<label>SubItem 1</label>
+</subitem>
+<subitem>
+<id>subItem1Item2</id>
+<label>SubItem 2</label>
+</subitem>
+<subitem>
+<id>subItem1Item3</id>
+<label>SubItem 3</label>
+</subitem>
+</subitems>
+</item>
+<item>
+<id>item6</id>
+</item>
+<item>
+<id>item7</id>
+<label>Item 7</label>
+</item>
+<item>
+<id>subItem2</id>
+<subitems>
+<subitem>
+<id>item1</id>
+<label>SubItem 2 item1</label>
+</subitem>
+</subitems>
+</item>
+</items>
+</itemlist>
